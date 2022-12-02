@@ -1,1 +1,1 @@
-# Keras_GAN
+# Generative Adversarial Network(GAN)
